@@ -61,10 +61,15 @@ One polished paragraph (3-4 lines) that could be spoken directly in an interview
 ### 12. Interview-Ready Why
 One polished paragraph (2-3 lines) answering "why do we need this?"
 
-### 13. Fast Recall
+### 13. Common Interview Questions
+Add 3-5 short interview questions that are commonly asked as follow-ups on this topic.
+After each question, add a 1-2 line answer that is crisp and interview-friendly.
+Prefer conceptual questions that test understanding, tradeoffs, misuse, or comparison with related concepts.
+
+### 14. Fast Recall
 3 short "Think: ..." lines that act as quick mental triggers.
 
-### 14. Questions To Ask In Design
+### 15. Questions To Ask In Design
 4 short questions (one per line, no bullets) the reader should ask themselves when designing a system.
 
 ## Formatting Rules

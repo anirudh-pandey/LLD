@@ -31,6 +31,7 @@ argument-hint: 'Topic name, e.g. "inheritance" or "strategy pattern"'
    - Strong Mental Model
    - Interview-Ready Definition
    - Interview-Ready Why
+   - Common Interview Questions
    - Fast Recall
    - Questions To Ask In Design
 
@@ -44,6 +45,7 @@ argument-hint: 'Topic name, e.g. "inheritance" or "strategy pattern"'
    - Short paragraphs, not long bullet lists.
    - Conversational tone, not textbook.
    - Java code snippets kept to 10-20 lines each.
+   - Common interview questions should have 1-2 line answers.
    - No nested bullets. No dry lists of reasons.
 
 5. **Confirm**: Tell the user the file was created and where it lives.
