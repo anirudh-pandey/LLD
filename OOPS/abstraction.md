@@ -71,6 +71,13 @@ Those are tools.
 
 Real abstraction means exposing the right level of detail to the caller.
 
+## Interview Trap
+A common mistake is over-abstraction too early.
+
+If your interface is generic but the domain is still unclear, you may end up with vague APIs that hide important business meaning.
+
+Good abstraction is not "maximum hiding." It is "right level of detail for the caller."
+
 ## Good vs Bad Abstraction
 Bad abstraction:
 

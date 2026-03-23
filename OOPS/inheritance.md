@@ -90,6 +90,13 @@ It is about modeling a type hierarchy where the child is truly a specialized ver
 
 Blindly extending a class just to get its methods is misuse.
 
+## Interview Trap
+Many candidates think a child can directly access all parent fields. That is wrong.
+
+`private` members of the parent are not directly accessible in the child. Only `public` and `protected` members are directly accessible (subject to package rules).
+
+If you need parent state safely, expose behavior from the parent instead of leaking fields.
+
 ## Strong Mental Model
 Ask this question:
 
